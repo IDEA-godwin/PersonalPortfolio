@@ -1,0 +1,1 @@
+This is a self developed project that is built to showcase my self growth, background and projects I have worked on. The entire portoflio is still a work in progress. The portfolio will be built implementing HTML, CSS AND JAVASCRIPT.
